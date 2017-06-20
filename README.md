@@ -8,3 +8,5 @@
 3.该项目中继承的父项目请看： https://github.com/sxdtzhaoxinguo/micaicms-pom
 
 4.熟悉git的操作
+
+教程博客：http://blog.csdn.net/sxdtzhaoxinguo/article/details/46895013
